@@ -1,6 +1,8 @@
 # windowsShortnew
 https://github.com/DanOrLove/windowsShortnew.git
 
+spec comand dotnet run --project CustomUninstaller.csproj
+
 Репозиторий системных утилит
 <<<<<<< HEAD
 
