@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\.git\windowsShortnew\bin\Debug\net8.0-windows\CustomUninstaller.exe
+C:\Users\Admin\Desktop\.git\windowsShortnew\bin\Debug\net8.0-windows\CustomUninstaller.deps.json
+C:\Users\Admin\Desktop\.git\windowsShortnew\bin\Debug\net8.0-windows\CustomUninstaller.runtimeconfig.json
+C:\Users\Admin\Desktop\.git\windowsShortnew\bin\Debug\net8.0-windows\CustomUninstaller.dll
+C:\Users\Admin\Desktop\.git\windowsShortnew\bin\Debug\net8.0-windows\CustomUninstaller.pdb
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.sourcelink.json
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.dll
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\refint\CustomUninstaller.dll
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.pdb
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\CustomUninstaller.genruntimeconfig.cache
+C:\Users\Admin\Desktop\.git\windowsShortnew\obj\Debug\net8.0-windows\ref\CustomUninstaller.dll
